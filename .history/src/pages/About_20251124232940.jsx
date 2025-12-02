@@ -1,4 +1,5 @@
 import React from "react";
+import myImg from '../assets/pfp.jpg';
 import { motion } from "framer-motion";
 
 export default function About(){
