@@ -1,5 +1,6 @@
 import React from 'react'
 import { Link } from 'react-router-dom'
+import profileImg from '../assets/unnamed.jpg'
 import { TypeAnimation } from 'react-type-animation'
 import { FaLaptopCode } from 'react-icons/fa'
 import { MdStyle } from 'react-icons/md'
