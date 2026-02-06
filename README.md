@@ -56,4 +56,4 @@ Hi! I’m Bassma Housbane, a passionate software developer who loves creating cl
 
 [My LinkedIn](https://linkedin.com/in/bassmahousbane)
 
-[My Email](mailto:bh.bassma.housbane@gmail.com)
+[My Email](mailto:contact@bassmahousbane.com)
